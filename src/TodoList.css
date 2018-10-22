@@ -1,0 +1,11 @@
+@charset "utf-8";
+.item a {
+    width: 20px;
+    font-size: 20px;
+}
+.item:hover {
+    background: #ccc;
+}
+.item:hover a {
+    color: red;
+}
